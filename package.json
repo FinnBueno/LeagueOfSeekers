@@ -1,0 +1,15 @@
+{
+  "name": "league-of-seekers",
+  "version": "1.0.0",
+  "description": "A Discord bot to help facilitate the LOL Hide & Seek gamemode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Finn Bon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.3.3"
+  }
+}
